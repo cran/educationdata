@@ -1,7 +1,7 @@
-733597d7e3c920b91b179e0d421fa10b *DESCRIPTION
+eb47ee852a10bfef3eda8afa84618a77 *DESCRIPTION
 6cb2dcc70df4a7a088651b02e0324935 *LICENSE
 7d22c9a67bc21af91a7163480d8342b8 *NAMESPACE
-539d72dd457765d53d9d23d197a9912a *NEWS.md
+38a62a4926cfd7f9003c1d8f8d5ce1e1 *NEWS.md
 68feabe09b952fe4ac2210d6b78a8de5 *R/add-variable-labels.R
 75982969a31574148e8ceb0c694c2f12 *R/construct-url.R
 fec0bc6e5affa36d5b2d53d166fd4777 *R/download-csv.R
@@ -18,8 +18,8 @@ afcf83517ad79cba001bb9b539c18522 *inst/doc/introducing-educationdata.html
 d7a2216812709e000405f1ff878ffb39 *man/get_education_data.Rd
 6d8b37a22bb7d9111b1de337c5fa635f *man/get_education_data_summary.Rd
 31495cc938a793322a9198cb4a13cf8a *tests/testthat.R
-3dbcd4f0b85bbfeaf6ba787e64fa9e88 *tests/testthat/test-api.R
-68461454fb29e912cdfd357eac4d844e *tests/testthat/test-csv.R
-05d28f06acc737fa7cc20ac4f390e056 *tests/testthat/test-summary-endpoints.R
-e6e5b9ae6506a6f99cf8244210215d8f *tests/testthat/test-validation.R
+ae8f444e129b59c0cefcbbdb411f04b4 *tests/testthat/test-api.R
+85bb1a01b0d900b4b17a26bb4f23ce1f *tests/testthat/test-csv.R
+5c02e68bb967f564f7622f8258e60232 *tests/testthat/test-summary-endpoints.R
+0b12ab79df0ab6634a0ae3f861cdc444 *tests/testthat/test-validation.R
 45560aa551145e1ea377631a6f6fc75c *vignettes/introducing-educationdata.Rmd
